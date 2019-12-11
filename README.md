@@ -7,4 +7,4 @@ My homework
 
 * [Lesson_9](https://andrei-ontime.github.io/lesson_9/)- ##Same web-site like in lesson_7 but using bootstrap
 
-* [Lesson_13](https://andrei-ontime.github.io/lesson_13/)- ##Pixel-perfect
+* [Lesson_13](https://andrei-ontime.github.io/lesson%2013/)- ##Pixel-perfect
