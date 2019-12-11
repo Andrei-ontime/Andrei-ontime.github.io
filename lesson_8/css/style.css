@@ -1,0 +1,17 @@
+.container {
+	text-align: center;
+}
+.header  {
+	margin-top: 13%;
+	font-size: 36px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+}
+.main {
+	margin-top: 10%;
+	font-size: 18px;
+	font-weight: 600;
+}
+.main img {
+	margin-bottom: 15%;
+}
