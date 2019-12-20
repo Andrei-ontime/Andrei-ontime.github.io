@@ -175,8 +175,7 @@ section {
     margin-top: 7rem;
   }
   .main-title {
-    padding-bottom: 3rem;
-    text-align: center;
+    text-align: left;
   }
 }
 @media (max-width: 767px) {
@@ -186,22 +185,29 @@ section {
   .header {
     text-align: center;
   }
-  .main-title {
-    margin-top: 10rem;
-  }
   .wrap-block,
   .phone-block {
     text-align: center;
   }
+  .main-title {
+    text-align: center;
+    margin-top: 10rem;
+  }
   .main-form {
-    text-align: ceter;
+    text-align: center;
+  }
+  .main-trigger {
+    margin-bottom: 2rem;
   }
 }
-@media (max-width: 5757px) {
+@media (max-width: 575px) {
   html {
-    font-size: 6px;
+    font-size: 7px;
   }
   .main-title {
-    margin-top: 12rem;
+    margin-top: 13rem;
+  }
+  .main-trigger {
+    margin-bottom: 2rem;
   }
 }
