@@ -172,7 +172,7 @@ section {
     background-position: top right;
   }
   .main-content {
-    margin-top: 7rem;
+    margin-top: 3rem;
   }
   .main-title {
     text-align: left;
@@ -191,7 +191,6 @@ section {
   }
   .main-title {
     text-align: center;
-    margin-top: 10rem;
   }
   .main-form {
     text-align: center;
@@ -203,9 +202,6 @@ section {
 @media (max-width: 575px) {
   html {
     font-size: 7px;
-  }
-  .main-title {
-    margin-top: 13rem;
   }
   .main-trigger {
     margin-bottom: 2rem;
