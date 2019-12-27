@@ -261,6 +261,9 @@ section {
   .header {
     margin-bottom: -2rem;
   }
+  .main h1 {
+    font-size: 2.5rem
+  }
   .main-trigger {
     margin-bottom: 2rem;
   }
