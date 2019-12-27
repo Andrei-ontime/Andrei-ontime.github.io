@@ -14,3 +14,4 @@ My homework
 * [Lesson_15](https://andrei-ontime.github.io/lesson_15/index.html)- ##Hover,before,after...
 * [Lesson_14.3](https://andrei-ontime.github.io/project_14.3/index.html)- ##site adaptation for all devices
 * [Lesson_16](https://andrei-ontime.github.io/lesson_16/index.html)- ##Slider fotorama
+* [Lesson_14.4](https://andrei-ontime.github.io/project_14.4/index.html) -##Add slick slider for my project
