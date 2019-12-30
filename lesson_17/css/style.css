@@ -1,0 +1,34 @@
+html {
+	font-size: 10px;
+}
+body {
+	background-color: #000;
+}
+.delete-btn {
+	display: block;
+	margin: 35rem auto;
+	width: 40rem;
+	height: 15rem;
+	font-size: 1.5rem;
+	text-decoration: line-through;
+	color: #21783a;
+	background-color: #000;
+	border: 3px dotted #21783a;
+	border-radius: 10%;
+	transition: 1s;
+}
+.delete-btn:hover {
+	font-size: 4rem;
+	text-decoration: none;
+	border: 3px solid #21783a;
+	}
+.modal-content {
+	font-size: 1.5rem;
+	background-color: #000;
+	color: #21783a;
+	border-color: #fff;
+}
+.btn {
+	width: 50rem;
+	background-color: #000;
+}
