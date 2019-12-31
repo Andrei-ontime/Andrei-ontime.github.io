@@ -1,0 +1,82 @@
+body {
+  font-family: 'Myriad Pro', sans-serif;
+  font-size: 10px;
+}
+.main {
+  margin: 10rem auto;
+  padding: 3rem 8rem;
+  width: 80rem;
+  height: 50rem;
+  background-color: #111;
+  font-size: 2.4rem;
+  color: #656363;
+}
+.nav-tabs {
+  margin-left: 1.5rem;
+  border: none;
+  padding: 0;
+}
+.nav > li > a {
+  margin-left: 1rem;
+  padding: 0 1.5rem;
+  color: #fff;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover {
+  color: #fff;
+  cursor: default;
+  background-color: #03a5da;
+  border: none;
+}
+#profile-tab {
+  background-color: #fff;
+  color: #111;
+}
+.form {
+  margin: -0.1rem auto;
+  padding: 3rem 5rem;
+  border: 2.2rem solid #03a5da;
+  border-radius: 0.5rem;
+  background-color: #111;
+  z-index: 999;
+}
+.input {
+  outline: none;
+  padding: 2rem;
+  display: block;
+  margin-top: 3rem;
+  width: 48rem;
+  height: 6rem;
+  background-color: #1f1e1e;
+  border: 1px solid transparent;
+  border-radius: 0.3rem;
+  color: #fff;
+}
+.forgot-pass {
+  display: block;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: #c82003;
+}
+#reminder {
+  margin-top: 6rem;
+  margin-left: 4.5rem;
+  color: #111;
+}
+.reminder {
+  font-size: 1.5rem;
+}
+button {
+  position: fixed;
+  display: inline-block;
+  margin-left: 28rem;
+  margin-top: 6.6rem;
+  padding: 0.1rem 2.5rem;
+  background-color: #c82003;
+  border: none;
+  color: #fff;
+  font-weight: 300;
+  border-radius: 0.2rem;
+}
