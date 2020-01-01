@@ -413,6 +413,9 @@ section {
   .features-block p {
     width: 75%;
   }
+  	.price-header {
+		margin-bottom: 2rem;
+	}
 }
 @media (max-width: 575px) {
   html {
@@ -427,4 +430,7 @@ section {
   .features-block p {
     width: 70%;
   }
+  	.price-header {
+		margin-bottom: 2rem;
+	}
 }
