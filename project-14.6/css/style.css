@@ -52,6 +52,7 @@ section {
   padding: 10rem 0;
 }
 .section-header {
+  margin-bottom: 9rem;
   text-align: center;
 }
 .section-header_light {
