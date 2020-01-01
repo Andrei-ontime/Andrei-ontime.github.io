@@ -52,8 +52,8 @@ section {
   padding: 10rem 0;
 }
 .section-header {
-  margin-bottom: 9rem;
   text-align: center;
+  margin-bottom: 9rem;
 }
 .section-header_light {
   margin-top: 0;
@@ -238,6 +238,9 @@ section {
   background: #45b713 url(../img/prices/price-bg.jpg) center;
   /* Карточки с тарифами */
 }
+.price-header {
+  margin-bottom: 5rem;
+}
 .price-header-btn {
   margin-top: 2.5rem;
 }
@@ -414,9 +417,9 @@ section {
   .features-block p {
     width: 75%;
   }
-  	.price-header {
-		margin-bottom: 2rem;
-	}
+  .price-header {
+    margin-bottom: 2rem;
+  }
 }
 @media (max-width: 575px) {
   html {
@@ -431,7 +434,7 @@ section {
   .features-block p {
     width: 70%;
   }
-  	.price-header {
-		margin-bottom: 2rem;
-	}
+  .price-header {
+    margin-bottom: 2rem;
+  }
 }

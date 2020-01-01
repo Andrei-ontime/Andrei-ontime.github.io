@@ -77,6 +77,7 @@ section {
 }
 .section-header {
 	text-align:center;
+	margin-bottom: 9rem;
  &_light {
  	margin-top: 0;
  	color: @light;
@@ -266,6 +267,9 @@ section {
 /* Секция с ценами */
 .price {
 	background: @icon-color url(../img/prices/price-bg.jpg) center;
+	&-header {
+		margin-bottom: 5rem;
+	}
 	&-header-btn {
 		margin-top: 2.5rem;
 	}
@@ -450,6 +454,9 @@ section {
 .features-block p {
 	width: 75%;
 	}
+	.price-header {
+		margin-bottom: 2rem;
+	}
 }
 @media (max-width: 575px) {
 	html {
@@ -463,5 +470,8 @@ section {
 }
 .features-block p {
 	width: 70%;
+	}
+	.price-header {
+		margin-bottom: 2rem;
 	}
 }
