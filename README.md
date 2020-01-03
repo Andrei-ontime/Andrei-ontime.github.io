@@ -15,3 +15,9 @@ My homework
 * [Lesson_14.3](https://andrei-ontime.github.io/project_14.3/index.html)- ##site adaptation for all devices
 * [Lesson_16](https://andrei-ontime.github.io/lesson_16/index.html)- ##Slider fotorama
 * [Lesson_14.4](https://andrei-ontime.github.io/project_14.4/index.html) -##Add slick slider for my project
+* [Lesson_14.5](https://andrei-ontime.github.io/lesson-14.5/index.html)- ##
+* [Lesson_14.6](https://andrei-ontime.github.io/project-14.6/index.html)- ##
+* [Lesson_17](https://andrei-ontime.github.io/lesson_17/index.html)- ##
+* [Lesson_18](https://andrei-ontime.github.io/lesson18.1/index.html)- ##
+* [Lesson_18.1](https://andrei-ontime.github.io/lesson_17/index.html)- ##
+* [Lesson_18.1](https://andrei-ontime.github.io/lesson19/index.html)- ##
