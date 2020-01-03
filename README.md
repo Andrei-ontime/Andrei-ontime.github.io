@@ -14,6 +14,7 @@ My homework
 * [Lesson_18](https://andrei-ontime.github.io/lesson18.1/index.html)- ##css,js tabs
 * [Lesson_18.1](https://andrei-ontime.github.io/lesson18/index.html)- ##accordion
 * [Lesson_19](https://andrei-ontime.github.io/lesson19/index.html)- ##Animation
+* [Lesson_20](https://andrei-ontime.github.io/lesson20/)- ##plugin vide
 * [Lesson_14-fonts](https://andrei-ontime.github.io/lesson%2014.fonts/index.html)- ##How to add fonts
 * [Lesson_14.1](https://andrei-ontime.github.io/lesson_14.1/src/)- ##New project. Header is ready
 * [Lesson_14.2](https://andrei-ontime.github.io/project_14.2/index.html)- ##Header is finished.
