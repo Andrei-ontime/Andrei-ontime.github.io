@@ -21,3 +21,4 @@ My homework
 * [Lesson_14.4](https://andrei-ontime.github.io/project_14.4/index.html) -##Add slick slider for my project
 * [Lesson_14.5](https://andrei-ontime.github.io/lesson-14.5/index.html)- ##MarkUp project
 * [Lesson_14.6](https://andrei-ontime.github.io/project-14.6/index.html)- ##MarkUp project
+* [Lesson_14.7](https://andrei-ontime.github.io/project-14.7/index.html)- ##MarkUp project. Feedback-section, slider.
