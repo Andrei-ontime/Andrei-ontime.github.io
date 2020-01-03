@@ -1,0 +1,82 @@
+  
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>Starter Template for Bootstrap</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+    <script src="js/wow.min.js"></script>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="dws-wrapper">
+      <div class="wrapper">
+        <div class="dws-form">
+          <div class="btn-wrap">
+            <button class="btn-out active wow zoomIn" data-wow-delay="1s" data-wow-duration="1s">Вход</button>
+            <button class="btn-out wow zoomIn" data-wow-delay="1s" data-wow-duration="1s">Регистрация</button>
+          </div>
+
+          <form action="#" class="tab-form active wow zoomIn" data-wow-delay="0.0s" data-wow-duration="1s">
+            <input class="input wow zoomIn" data-wow-delay="1s" data-wow-duration="1s" type="name" placeholder="Ваше имя">
+            <input class="input wow zoomIn" data-wow-delay="1s" data-wow-duration="1s" type="password" placeholder="Пароль">
+            <a href="#" class="wow zoomIn" data-wow-delay="1s" data-wow-duration="1s">Забыли пароль?</a>
+            <input class="reminder wow zoomIn" data-wow-delay="1s" data-wow-duration="1s" type="checkbox" id="reminder" name="reminder">
+            <label class="reminder wow zoomIn" data-wow-delay="1s" data-wow-duration="1s" for="reminder">Напомнить мне</label>
+            <button class="btn-in wow rollIn" data-wow-delay="1s" data-wow-duration="1s">Войти</button>
+          </form>
+
+          <form action="#" class="tab-form wow zoomIn" data-wow-delay="0.0s" data-wow-duration="1s">
+            <input class="input wow zoomIn" data-wow-delay="1s" data-wow-duration="1s" type="name" placeholder="Ваше имя">
+            <input class="input wow zoomIn" data-wow-delay="1s" data-wow-duration="1s"" type="password" placeholder="Пароль">
+            <input class="input wow zoomIn" data-wow-delay="1s" data-wow-duration="1s"" type="password" placeholder="Подтвердите пароль">
+            <input class="reminder wow zoomIn" data-wow-delay="1s" data-wow-duration="1s"" type="checkbox" id="reminder" name="reminde">
+            <label class="reminder wow zoomIn" data-wow-delay="1s" data-wow-duration="1s"" for="reminder">Запомнить пароль</label>
+            <button class="btn-in signUp wow zoomIn" data-wow-delay="1s" data-wow-duration="1s"">Регистрация</button>
+          </form>
+      </div>
+
+
+
+      </div>
+    </div>
+
+    
+    <script>
+      var wow = new WOW;
+      wow.init();
+    </script>
+
+
+    <script>
+      $(document).ready(function() {
+        
+        /*Смена табов*/
+        $(".dws-wrapper").on("click", ".btn-out", function () {
+
+        // удаляем класс active
+        $(".dws-wrapper").find(".active").removeClass("active");
+
+        // Добавляем класс active
+        $(this).addClass('active');
+        $(".tab-form").eq($(this).index()).addClass("active");
+      });
+    });
+    </script>
+
+    </script>
+  </body>
+</html>
