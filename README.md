@@ -23,3 +23,4 @@ My homework
 * [Lesson_14.5](https://andrei-ontime.github.io/lesson-14.5/index.html)- ##MarkUp project
 * [Lesson_14.6](https://andrei-ontime.github.io/project-14.6/index.html)- ##MarkUp project
 * [Lesson_14.7](https://andrei-ontime.github.io/project-14.7/index.html)- ##MarkUp project. Feedback-section, slider.
+* [Lesson_14.8](https://andrei-ontime.github.io/project-14.8/index.html)- ##MarkUp project. Feedback-section, slider and adaptation for all devices.
