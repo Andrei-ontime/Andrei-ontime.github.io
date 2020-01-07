@@ -1,0 +1,56 @@
+.lol {
+  margin: 20% auto;
+}
+.wrap {
+  position: relative;
+  margin-top: 30
+  width: 1920px;
+  height: 350px;
+  margin: 0 auto;
+}
+
+.contacts {
+  position: absolute;
+  top: 0;
+  left: 21%;
+  height: 100%;
+  padding: 30px 70px;
+  background-color: #c60b0b;
+  font-size: 16px;
+  font-weight: 300;
+  color: #fff;
+  text-align: center;
+  z-index: 9;
+}
+h3 {
+   font-size: 1.8rem;
+   font-weight: 400;
+  }
+a {
+  display: block; 
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: #fff;
+}
+a:visited {
+  color: #fff;
+}
+.row {
+  width: 100%;
+  padding: 25px 0;
+  background-color: #fff;
+  font-size: 14px;
+}
+img {
+  margin-right: 15px;
+}
+.row p {
+  margin-top: -3px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.row a{
+  font-size: 22px;
+  font-weight: 600;
+  color: #111;
+}
