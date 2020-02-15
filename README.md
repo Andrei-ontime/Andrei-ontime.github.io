@@ -26,4 +26,4 @@ My homework
 * [Lesson_14.7](https://andrei-ontime.github.io/project-14.7/index.html)- ##MarkUp project. Feedback-section, slider.
 * [Lesson_14.8](https://andrei-ontime.github.io/project-14.8/index.html)- ##MarkUp project. Feedback-section, slider and adaptation for all devices.
 * [Lesson_14.9](https://andrei-ontime.github.io/project-14.9/index.html)- ##MarkUp project. scheme adn adaptation
-* [Lesson_14.10](https://andrei-ontime.github.io/project-14.10/index.html)- ##MarkUp project. problems-section adn adaptation
+* [Lesson_14.10](https://andrei-ontime.github.io/project-14.10/index.html)- ##MarkUp project. problems-section and adaptation
